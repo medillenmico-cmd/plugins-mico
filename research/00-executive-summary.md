@@ -42,7 +42,9 @@ The recommended baseline is **WebGL 2 with Three.js through React Three Fiber**,
 
 Proceed eventually with a **hybrid R3F/WebGL hero plus DOM storytelling and media/static fallbacks**. Use AI and Codex aggressively for architecture, implementation, testing, and optimization assistance, but reserve final art direction, model cleanup, lighting, motion feel, and cross-device sign-off for a human designer/developer and, if realism is central to the brand, a professional 3D artist.
 
-## Important limitation
+## Reference finding
 
-The supplied YouTube URL could not be fetched, and no transcript or reliable metadata was available through search. No local visual media accompanied the prompt. Therefore the visual direction in this research is based on the explicit written target, not a claimed frame-by-frame analysis of the video. See [01-reference-visual-analysis.md](./01-reference-visual-analysis.md).
+The supplied YouTube reference was opened in the interactive browser and its full 9:59 transcript was exported and reviewed. The video, **“Build an Interactive 3D Website with AI (Step-by-Step)” by Profit Studio**, demonstrates a template-first workflow: remix a prepared website in Google AI Studio, replace its hero with a mouse-responsive Spline Community scene, make the Spline background transparent, disable orbit/pan/zoom controls, paste the viewer URL through a prepared AI prompt, then prompt brand, section, and mobile-only changes.
+
+That evidence changes the replication path: **Spline is the most faithful MVP tool for reproducing the workflow shown in the video.** The R3F/WebGL recommendation remains appropriate for the written target's more ambitious scroll-controlled camera narrative, performance tiers, and owned rendering pipeline. The video does not demonstrate the requested staged headline/description/CTA scroll choreography, so that timeline remains a project recommendation rather than an observed reference behavior. See [01-reference-visual-analysis.md](./01-reference-visual-analysis.md).
 
