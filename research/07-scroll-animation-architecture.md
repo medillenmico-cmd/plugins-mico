@@ -25,7 +25,7 @@ ScrollTrigger supports the required pin and scrub behavior directly ([official d
 | `cta` | 0.62–0.82 | Motion decelerates; lighting cue supports stable presentation. | CTA appears and can receive focus. | CTA remains reachable without precise scroll. |
 | `release` | 0.82–1.00 | Final hero pose; optional shallow depth transition. | Copy remains stable; next section preview appears. | Pin releases with no jump/overlap. |
 
-The timeline is a recommendation derived from the written requirements, not a reconstruction of the inaccessible YouTube reference.
+The timeline is a recommendation derived from the written requirements, not a reconstruction of the reviewed YouTube video. The video demonstrates mouse-responsive Spline scenes and ordinary page scrolling, but it does not show this specific staged headline/description/CTA scroll timeline.
 
 ## State model
 
