@@ -10,11 +10,11 @@
 | Field | Plan |
 | --- | --- |
 | Expected outcome | Approved product message, audience, visual target, reference truth set, and decision on real-time vs media MVP. |
-| Tools | Accessible reference video/frames, browser, Figma for annotated responsive frames if useful, mood boards. |
+| Tools | Reviewed YouTube reference and transcript, browser, captured/approved key frames, Figma for annotated responsive frames if useful, mood boards. |
 | AI responsibilities | Synthesize references, identify patterns, draft storyboard, list unknowns, compare approaches. |
-| Human responsibilities | Supply accessible reference; approve object, message, style, copy, CTA, and success criteria. |
+| Human responsibilities | Approve which video example or Spline scene is the actual visual target; approve object, message, style, copy, CTA, and success criteria. |
 | Dependencies | Product positioning and rights to use reference material. |
-| Risks | Building from an inaccessible or misunderstood reference; optimizing novelty instead of communication. |
+| Risks | Treating the tutorial's montage as one exact design; confusing its Spline MVP workflow with the brief's more advanced scroll choreography; optimizing novelty instead of communication. |
 | Acceptance criteria | 8–12 approved key frames or equivalent; desktop/tablet/mobile intent; reduced-motion concept; signed decision memo. |
 
 ### Phase 2 — Asset production
