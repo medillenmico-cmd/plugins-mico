@@ -13,7 +13,9 @@
 ## Reference access
 
 - Supplied YouTube reference: <https://youtu.be/8qtUld9IjII?si=K3WVvHT8Nnty7P1x>
-- **Status:** Inaccessible to the research fetcher. Search did not provide trustworthy metadata or transcript. No claim was made that the video was watched.
+- **Status:** Opened in the interactive browser on 2026-08-31. The full 9:59 English transcript was exported and reviewed, and representative frames were inspected at the opening, template-remix, Spline-community, Spline-export, and AI-customization stages.
+- **Verified metadata:** “Build an Interactive 3D Website with AI (Step-by-Step),” Profit Studio.
+- **Content used as reference evidence:** the four-step workflow stated in the video; its on-screen template examples; Spline Community remix and viewer-export settings; Google AI Studio remix/prompt workflow; and the demonstrated mobile-only size correction.
 - No local video or image reference was supplied with the rerun.
 
 ## OpenAI and Codex
@@ -107,11 +109,12 @@ The following files in `medillenmico-cmd/plugins-mico` were used as workflow gui
 - `plugins/build-web-apps/skills/frontend-app-builder/SKILL.md` — full-surface design definition, responsive/motion/accessibility expectations, browser verification, and fidelity gates.
 - `plugins/build-web-apps/skills/react-best-practices/SKILL.md` — bundle, rendering, hydration, event, and performance priorities.
 
-Figma was not invoked because the deliverable was research Markdown and no accessible visual frames or Figma file were supplied. It remains recommended for later annotation of responsive key frames and text-safe areas.
+Figma was not invoked because the deliverable was research Markdown and no Figma file or design-editing task was supplied. It remains recommended for later annotation of approved responsive key frames and text-safe areas.
 
 ## Known uncertainties
 
-- The exact content and implementation shown in the supplied YouTube reference.
+- Which of the several template/example websites shown in the YouTube montage is the intended visual target.
+- The underlying source code, renderer internals, asset sizes, and production performance of the websites shown in the video; the video demonstrates the authoring workflow but does not expose those details.
 - The eventual hero object's geometry, materials, animation, and brand constraints.
 - Target audience/device distribution, analytics, hosting/CDN, browser support policy, and performance baselines.
 - Whether mobile must retain real-time 3D or may use a media/static alternative.
