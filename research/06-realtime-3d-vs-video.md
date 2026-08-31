@@ -67,7 +67,9 @@ Use the hybrid with:
 - One dynamically loaded real-time WebGL 2 hero for desktop and proven mobile tiers.
 - An opaque pre-rendered video or static poster for reduced motion, weak GPUs, load failure, or constrained data conditions.
 - No transparent WebM dependency unless the fallback matrix has been tested and the compositing benefit is substantial.
-- Optional image-sequence prototype only if the inaccessible reference is later confirmed to be frame-scrubbed rather than interactive 3D.
+- No image-sequence requirement is indicated by the reviewed video: it explicitly presents the examples as real, mouse-responsive websites and demonstrates a Spline viewer embed. Prototype an image sequence only if a later art direction requires deterministic offline-rendered scroll frames.
+
+For the **video-demonstrated MVP**, a Spline embed with semantic DOM content and a poster fallback is the closest match and lowest-complexity path. For the **written brief's extended scroll-controlled sequence**, retain the hybrid R3F/WebGL recommendation when precise camera, render-loop, shader, asset-budget, and fallback control justify the added engineering.
 
 ## MVP decision rule
 
